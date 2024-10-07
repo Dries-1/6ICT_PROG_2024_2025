@@ -36,3 +36,8 @@ Print de waarde van sleutel "assigned_to". Print vervolgens de waarde van sleute
 We zullen hier meer op ingaan in het deel "Geneste dictionaries".
 """
 
+assigned_to_value = laptop_korneel["assigned_to"]
+print("\nWaarde van assigned_to:", assigned_to_value)
+
+username_value = laptop_korneel["assigned_to"]["username"]
+print("Waarde van username:", username_value)

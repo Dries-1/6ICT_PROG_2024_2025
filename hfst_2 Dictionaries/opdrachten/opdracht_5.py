@@ -1,5 +1,5 @@
 # Start de opdracht met onderstaande code (je moet pygame installeren)
-import pygame
+# import pygame
 
 # Start pygame
 pygame.init()
