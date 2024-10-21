@@ -1,7 +1,8 @@
 # Start de opdracht met onderstaande code (je moet pygame installeren)
-# import pygame
+'''import pygame'''
 
 # Start pygame
+'''
 pygame.init()
 
 # Zet scherm klaar
@@ -31,3 +32,4 @@ while running:
     # Verander achtergrond en toon aan gebruiker
     screen.fill(kleur_rgb)
     pygame.display.flip()
+    '''
