@@ -1,4 +1,4 @@
-from ultralytics import YOLO
+from ultralytics import YOLO 
 import cv2, time, random
 import matplotlib.pylab as plt
 
